@@ -1,0 +1,130 @@
+description,data_type,task-<label>,acq-<label>,ce-<label>,rec-<label>,dir<label>,run-<index>,suffix,bids_name,BIDS_suffix
+DTI_MB2_monopolar_PA_2mm_NOANG_TRACEW,dwi,,,,,,,dwi,dwi,dwi
+gre_field_mapping,fmap,,,,,,,fieldmap,fieldmap,"magnitude1, magnitude2, phase"
+t1_tse_tra_MDC,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+DTI_MB2_monopolar_INV_PE-RO_2mm_NOANG,dwi,,,,,PA,2,dwi,dir-PA_run-02_dwi,dir-PA_run-2_dwi
+T2_FLAIR_3D_SAG,anat,,,,,,,FLAIR,FLAIR,FLAIR
+DTI_MB2_monopolar_AP_2mm_NOANG,dwi,,,,,AP,1,dwi,dir-AP_run-01_dwi,dir-AP_run-1_dwi
+T1w_MPR_SAG,anat,,,,,,,T1w,T1w,T1w
+DTI_MB2_monopolar_PA_2mm_NOANG,dwi,,,,,PA,1,dwi,dir-PA_run-01_dwi,dir-PA_run-1_dwi
+dp+t2_tse_MDC,anat,,,,,,,PDT2,PDT2,PDT2
+DTI_MB2_monopolar_2mm,dwi,,,,,,,dwi,dwi,dwi
+bas_BOLD_TRA_RESTING,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+dp+t2_tse,anat,,,,,,,PDT2,PDT2,PDT2
+DTI_MB2_monopolar_2mm_FA,dwi,,,,,,,dwi,dwi,
+DTI_MB2_monopolar_INV_PE-RO_2mm,dwi,,,,,PA,2,dwi,dir-PA_run-02_dwi,dir-PA_run-2_dwi
+T2_FLAIR_3D_SAG_,anat,,,,,,,FLAIR,FLAIR,FLAIR
+DTI_MB2_monopolar_AP_2mm,dwi,,,,,AP,1,dwi,dir-AP_run-01_dwi,dir-AP_run-1_dwi
+DTI_MB2_monopolar_PA_2mm,dwi,,,,,PA,1,dwi,dir-PA_run-01_dwi,dir-PA_run-1_dwi
+DTI_MB2_monopolar_2mm,dwi,,,,,,,dwi,dwi,dwi
+act_BOLD_TRA_RESTING,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+DTI 30 HR,dwi,,,,,,,dwi,dwi,dwi
+dp+t2_tse_,anat,,,,,,,PDT2,PDT2,PDT2
+t1_tse__tra_mdc,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+t2_tirm_tra MDC,anat,,,,,,,FLAIR,FLAIR,FLAIR
+T1_3D SAG,anat,,,,,,,T1w,T1w,T1w
+t1_tse_tra_,anat,,,,,,,T1w,T1w,
+DTI_MB2_monopolar_2mm_NOANG,dwi,,,,,,,dwi,dwi,dwi
+dp+t2_tse_tra,anat,,,,,,,PDT2,PDT2,PDT2
+t2_tirm_tra_dark-fluid,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t2_fl2d_tra_Gradient Eco,anat,,,,,,,FLAIR,FLAIR,FLAIR
+bas_BOLD_TRA_MOTORIO,func,motor,,,,,,BOLD,task-motor_bold,task-motor
+act_BOLD_TRA_RESPIRO,func,breathhold,,,,,,BOLD,task-breathhold_bold,task-breathhold
+dp+t2_tse_tra maurizio,anat,,,,,,,PDT2,PDT2,PDT2
+DTI 30 HR(non angolarla),dwi,,,,,,,dwi,dwi,dwi
+t2_FLAIR SAG 3D_MDC,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t1_tse_tra M.D.C.4 mm,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+dp+t2_tse_tra 4 mm,anat,,,,,,,PDT2,PDT2,PDT2
+t1_tse_tra M.D.C. maurizio,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+ACT_BOLD_RESTING140,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+t2_tse_tra,anat,,,,,,,T2w,T2w,T2w
+t1_tse_tra_mdc,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+dp+t2_tse mdc,anat,,,,,,,PDT2,PDT2,PDT2
+t1_tse_tra M.D.C.,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+t2_flair,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t2_FLAIR SAG 3D,anat,,,,,,,FLAIR,FLAIR,FLAIR
+T1,anat,,,,,,,T1w,T1w,
+T2,anat,,,,,,,T2w,T2w,T2w
+t2_flair maurizio,anat,,,,,,,FLAIR,FLAIR,FLAIR
+dp+t2_tse_mdc,anat,,,,,,,PDT2,PDT2,PDT2
+act_BOLD_stroop_207,func,stroop,,,,,,BOLD,task-stroop_bold,task-stroop
+act_BOLD_resting140,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+DP+T2_TSE_TRA 4 MM,anat,,,,,,,PDT2,PDT2,PDT2
+T2_TIRM_TRA_DARK-FLUID,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t2_FLAIR 3D_MDC,anat,,,,,,,FLAIR,FLAIR,FLAIR
+T2_FLAIR_3D_SAG_mdc,anat,,,,,,,FLAIR,FLAIR,FLAIR
+T1_3D.SAG,anat,,,,,,,T1w,T1w,T1w
+T2_FLAIR CONTRASTO,anat,,,,,,,FLAIR,FLAIR,FLAIR
+DP+T2_TSE,anat,,,,,,,PDT2,PDT2,PDT2
+T2 FLAIR 3D SAG,anat,,,,,,,FLAIR,FLAIR,FLAIR
+BAS_BOLD_TRA_RESTING,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+T1_TSE_TRA M.D.C.,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+t2_tirm_tra (MDC),anat,,,,,,,FLAIR,FLAIR,FLAIR
+act_BOLD_TRA_MOTORIO,func,motor,,,,,,BOLD,task-motor_bold,task-motor
+ACT_BOLD_TRA_RESTING,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+t2_flair contrasto,anat,,,,,,,FLAIR,FLAIR,FLAIR
+T1w_MPR_SAG D_C_ND,anat,,,,,,,T1w,T1w,T1w
+T1w_MPR_SAG D_C,anat,,,,,,,T1w,T1w,T1w
+t1_tse__tra,anat,,,,,,,T1w,T1w,
+t1_tse__mdc,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+t2_FLAIR 3D_,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t2_FLAIR 3D,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t1_mprage_sag_p2_iso,anat,,,,,,,T1w,T1w,T1w
+DTI6HR_AP_BlipUp_NoAng,dwi,,,,,AP,1,dwi,dir-AP_run-1_dwi,dir-AP_run-1_dwi
+DTI6HR_PA_BlipDown_NoAng,dwi,,,,,PA,1,dwi,dir-PA_run-1_dwi,dir-PA_run-1_dwi
+DTI30HR_AP_NoAng,dwi,,,,,AP,1,dwi,dir-AP_run-1_dwi,dir-AP_run-1_dwi
+bas_BOLD_resting140,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+FLAIR TRA,anat,,,,,,,FLAIR,FLAIR,FLAIR
+t2_tirm_tra,anat,,,,,,,FLAIR,FLAIR,FLAIR
+BOLD_TRA RESTING 2,func,rest,,,,,2,BOLD,task-rest_run-02_bold,task-rest_acq-run2
+BOLD_1,func,rest,,,,,1,BOLD,task-rest_run-01_bold,task-rest_acq-run1
+BOLD_2,func,rest,,,,,2,BOLD,task-rest_run-02_bold,task-rest_acq-run2
+BOLD_TRA RESTING 1,func,rest,,,,,1,BOLD,task-rest_run-01_bold,task-rest_acq-run1
+DTI30HR,dwi,,,,,,,dwi,dwi,dwi
+DP+T2_TSE_TRA MAURIZIO,anat,,,,,,,PDT2,PDT2,PDT2
+T1_TSE_TRA M.D.C. MAURIZIO,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+T2_FLAIR MAURIZIO CONTRASTO,anat,,,,,,,FLAIR,FLAIR,FLAIR
+BAS_BOLD_TRA_MOTORIO,func,motor,,,,,,BOLD,task-motor_bold,task-motor
+GRE_FIELD_MAPPING,fmap,,,,,,,fieldmap,fieldmap,"magnitude1, magnitude2, phase"
+T2_FLAIR MAURIZIO,anat,,,,,,,FLAIR,FLAIR,FLAIR
+BOLD_TRA MANO DX,func,motorimageryRHand,,,,,,BOLD,task-motorimageryRHand_bold,task-motorimageryRHand
+BOLD_TRA IMAGE DX,func,motorimageryRImage,,,,,,BOLD,task-motorimageryRImage_bold,task-motorimageryRImage
+bas_BOLD_stroop_207,func,stroop,,,,,,BOLD,task-stroop_bold,task-stroop
+t2_FLAIR SAG 3D_,anat,,,,,,,FLAIR,FLAIR,FLAIR
+DTI_MB2_monopolar,dwi,,,,,,,dwi,dwi,
+t1_tse__tra mdc,anat,,,GD,,,,T1w,ce-GD_T1w,_ce-GD_T1w
+t1_tse__tra new,anat,,,GD,,,,T1w,ce-GD_T1w,_ce-GD_T1w
+t1_tse__tra MDC,anat,,,,,,,T1w,ce-GD_T1w,_ce-GD_T1w
+DP+T2_TSE_TRA,anat,,,,,,,PDT2,PDT2,PDT2
+T2_FLAIR,anat,,,,,,,FLAIR,FLAIR,FLAIR
+BOLD_TRA 1,func,rest,,,,,1,BOLD,task-rest_run-01_bold,task-rest_run-01
+BOLD_TRA 2,func,rest,,,,,2,BOLD,task-rest_run-02_bold,task-rest_run-02
+DTI 64 TRA,dwi,,,,,,,dwi,dwi,dwi
+T2_TSE_TRA__,anat,,,,,,,T2w,T2w,T2w
+T1w_MPR,anat,,,,,,,T1w,T1w,
+t1 mdc,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+pd+t2_tse_tra_p2_3mm,anat,,,,,,,PDT2,PDT2,PDT2
+ep2d_diff_mddw_64_SMS3_2mm_PA,dwi,,,,,PA,1,dwi,dir-PA_run-01_dwi,dir-PA_run-1_dwi
+T2w_SPACE_FLAIR_Sag_1mm,anat,,,SPACE_FLAIR,,,,FLAIR,ce-SPACE_FLAIR,ce-SPACE_FLAIR
+ep2d_diff_mddw_64_SMS3_2mm_AP,dwi,,,,,AP,1,dwi,dir-AP_run-01_dwi,dir-AP_run-1_dwi
+ep2d_diff_mddw_64_SMS3_2mm,dwi,,,,,,,dwi,dwi,dwi
+T2 3D_ CIS,anat,,,,,,,T2w,T2w,T2w
+T2_TSE_TRA_,anat,,,,,,,T2w,T2w,T2w
+T1 SAG MDC,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+t2_tse_tra_,anat,,,,,,,T2w,T2w,T2w
+t1_tirm_ax_dark-fluid,anat,,,,,,,T1w,FLAIR,FLAIR
+bas_BOLD_stroop_task,func,stroop,,,,,,BOLD,task-stroop_bold,task-stroop
+bas_BOLD_stroop_control,func,stroopcontrol,,,,,,BOLD,task-stroopcontrol_bold,task-stroopcontrol
+t1_tse_tra maurizio,anat,,,,,,,T1w,T1w,
+dp+t2_tse_tra maurizio_FIL_2,anat,,,,,,,PDT2,PDT2,PDT2
+dp+t2_tse_tra maurizio_FIL_1,anat,,,,,,,PDT2,PDT2,PDT2
+T1_TSE__TRA POST MDC,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+T1 MDC SAG,anat,,,GD,,,,T1w,ce-GD_T1w,ce-GD_T1w
+BOLD_fMRI_64_MB2,func,rest,,,,,,BOLD,task-rest_bold,task-rest
+BOLD_fMRI_64_MB2_PA,func,,,,,,,BOLD,dir-PA_task-rest_bold,dir-PA_task-rest
+t1_tse_tra,anat,,,,,,,T1w,T1w,
+DTI_MB2_monopolar_RL_2mm,dwi,,,,,,,dwi,dwi,
+dp+t2_tse_ mdc,anat,,,,,,,PDT2,PDT2,PDT2
+T1_TSE_TRA_380,anat,,,,,,,T1w,T1w,
+t2_FLAIR 3D_sag_p2_iso MDC,anat,,,,,,,FLAIR,FLAIR,FLAIR
+ACT_BOLD_TRA_MOTORIO,func,motor,,,,,,BOLD,task-motor_bold,task-motor
